@@ -1,10 +1,15 @@
 Project Title : TimeToTravel website
 
 Built with : 
+
   • Html5 / Css / Javascript
+  
   • Jquery
+  
   • Ajax
+  
   • Bootstrap
+  
   • Java
   
 Database : 
