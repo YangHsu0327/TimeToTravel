@@ -4,27 +4,27 @@ Built with :
 
 	• Html5 / Css / Javascript
   
-  • Jquery
+  	• Jquery
   
-  • Ajax
+  	• Ajax
   
-  • Bootstrap
+  	• Bootstrap
   
-  • Java
+  	• Java
   
 Database : 
 
-  • Mysql
+  	• Mysql
   
-  • Redis
+  	• Redis
   
 Sever : 
 
-  • Apache Tomcat 9.0
+  	• Apache Tomcat 9.0
   
 Integrated Development Environment :
 
-  • Eclipse
+  	• Eclipse
   
 Getting Start :
 
