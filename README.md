@@ -28,7 +28,7 @@ Integrated Development Environment :
   
 Getting Start :
 
-1. Please import data into Mysql,you can find the scrip in src/main/ScriptForDatabase.
+1. Please import data into Mysql,you can find the scrip in https://drive.google.com/drive/folders/1J2xQQT8CjbdVFpcWx8IDoLR4IKZirrCw?usp=sharing.
 
 2. Please put the Project into Eclipse, and run serve on the file home.jsp which is in src/main/front_end/member.
 
