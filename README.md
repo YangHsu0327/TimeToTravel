@@ -2,7 +2,7 @@ Project Title : TimeToTravel website
 
 Built with : 
 
-  • Html5 / Css / Javascript
+	• Html5 / Css / Javascript
   
   • Jquery
   
